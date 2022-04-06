@@ -1,5 +1,5 @@
 # Topic classification Neural Network
-
+ 
 *Check out my Towardsdatascience [article](https://towardsdatascience.com/covid-19-policies-multi-classification-with-neural-network-d85cbc0f90c0) on this project!*
 
 This is an ongoing project I'm working on for Coronanet.org, a NPO working on collecting data on covid policies around the globe, cleaning and publishing them to an open source repo that academia, journalists and government can use to do analysis. We have a team of research assistants (RAs) who extract the data from various sources and 'code' them into the big database through filling out a survey. The raw dataset format has multiple columns for every detailed information of the policy.
